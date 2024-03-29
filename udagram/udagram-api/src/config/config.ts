@@ -20,4 +20,5 @@ export const config = {
   jwt: {
     secret: process.env.JWT_SECRET,
   },
+  aws_session_token: process.env.AWS_SESSION_TOKEN,
 };

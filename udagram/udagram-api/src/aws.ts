@@ -10,6 +10,7 @@ export const s3 = new AWS.S3({
   credentials: {
     accessKeyId: config.aws_access_key_id,
     secretAccessKey: config.aws_secret_access_key,
+    sessionToken: config.aws_session_token,
   },
 });
 
