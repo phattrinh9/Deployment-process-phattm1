@@ -32,6 +32,7 @@ Ensure the following environment variables are configured:
 - `AWS_ACCESS_KEY_ID`
 - `AWS_DEFAULT_REGION`
 - `AWS_SECRET_ACCESS_KEY`
+- `AWS_SESSION_TOKEN`
 - `JWT_SECRET`
 - `POSTGRES_DB`
 - `POSTGRES_HOST`
