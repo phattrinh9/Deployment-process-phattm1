@@ -8,7 +8,7 @@ The Udagram application serves as an alternative starting point for this project
 
 ## Hosting Link
 
-[Visit Udagram](https://udacityp4phattm1-ver1.s3.amazonaws.com)
+[Visit Udagram](http://udacityp4phattm1-ver1.s3-website-us-east-1.amazonaws.com)
 
 ### Dependencies
 
